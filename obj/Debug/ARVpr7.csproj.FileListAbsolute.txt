@@ -1,0 +1,102 @@
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\ARVpr7.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\ARVpr7.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\Pages\PageLogin.g.cs
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\App.g.cs
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\ARVpr7_MarkupCompile.cache
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\ARVpr7_MarkupCompile.lref
+C:\Users\student\Desktop\ПР7\ARVpr7\bin\Debug\ARVpr7.exe.config
+C:\Users\student\Desktop\ПР7\ARVpr7\bin\Debug\ARVpr7.exe
+C:\Users\student\Desktop\ПР7\ARVpr7\bin\Debug\ARVpr7.pdb
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\App.baml
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\Pages\PageLogin.baml
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\ARVpr7.g.resources
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\ARVpr7.Properties.Resources.resources
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\ARVpr7.csproj.GenerateResource.cache
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\ARVpr7.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\ARVpr7.exe
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\ARVpr7.pdb
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\Pages\Librelist\MainPageLibralist.g.cs
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\Pages\PageManagerLB\MainPageManager.g.cs
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\Pages\PageRider\MainPageRider.g.cs
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\Pages\Librelist\MainPageLibralist.baml
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\Pages\PageManagerLB\MainPageManager.baml
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\Pages\PageRider\MainPageRider.baml
+C:\Users\student\Desktop\ПР7\ARVpr7\bin\Debug\EntityFramework.dll
+C:\Users\student\Desktop\ПР7\ARVpr7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\student\Desktop\ПР7\ARVpr7\bin\Debug\EntityFramework.xml
+C:\Users\student\Desktop\ПР7\ARVpr7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\student\Desktop\ПР7\ARVpr7\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\ARVpr7_Content.g.cs
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\ARVpr7.csproj.CopyComplete
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\Pages\Librelist\BooksViewPage.g.cs
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\Pages\Librelist\ReaderViewPage.g.cs
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\Pages\Librelist\RegViewPage.g.cs
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\Pages\Librelist\BooksViewPage.baml
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\Pages\Librelist\ReaderViewPage.baml
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\Pages\Librelist\RegViewPage.baml
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\Pages\Librelist\AddReaderPage.g.cs
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\Pages\Librelist\EditReaderPage.g.cs
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\Pages\Librelist\AddReaderPage.baml
+C:\Users\student\Desktop\ПР7\ARVpr7\obj\Debug\Pages\Librelist\EditReaderPage.baml
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\ARVpr7.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\ARVpr7.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\MainWindow.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\Librelist\AddReaderPage.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\Librelist\BooksViewPage.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\Librelist\EditReaderPage.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\Librelist\MainPageLibralist.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\Librelist\ReaderViewPage.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\Librelist\RegViewPage.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\PageLogin.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\PageManagerLB\MainPageManager.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\PageRider\MainPageRider.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\App.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\ARVpr7_Content.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\ARVpr7_MarkupCompile.cache
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\ARVpr7_MarkupCompile.lref
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\ARVpr7.exe
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\ARVpr7.pdb
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\bin\Debug\ARVpr7.exe.config
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\bin\Debug\ARVpr7.exe
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\bin\Debug\ARVpr7.pdb
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\bin\Debug\EntityFramework.dll
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\bin\Debug\EntityFramework.xml
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\App.baml
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\MainWindow.baml
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\Librelist\AddReaderPage.baml
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\Librelist\BooksViewPage.baml
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\Librelist\EditReaderPage.baml
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\Librelist\MainPageLibralist.baml
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\Librelist\ReaderViewPage.baml
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\Librelist\RegViewPage.baml
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\PageLogin.baml
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\PageManagerLB\MainPageManager.baml
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\PageRider\MainPageRider.baml
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\ARVpr7.g.resources
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\ARVpr7.Properties.Resources.resources
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\ARVpr7.csproj.GenerateResource.cache
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\ARVpr7.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\ARVpr7.csproj.CopyComplete
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\Librelist\AddRegPage.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\Librelist\AddRegPage.baml
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\Librelist\EditRegPage.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\Librelist\EditRegPage.baml
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\PageRider\BookPageReader.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\PageRider\RegPageReader.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\PageRider\BookPageReader.baml
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\PageRider\RegPageReader.baml
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\PageManagerLB\AddBookPage1xaml.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\PageManagerLB\BookViewPageMgLB.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\PageManagerLB\EditBookPageMgLB.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\PageManagerLB\ReaderViewPageMgLB.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\PageManagerLB\RegViewPageMgLB.g.cs
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\PageManagerLB\AddBookPage1xaml.baml
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\PageManagerLB\BookViewPageMgLB.baml
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\PageManagerLB\EditBookPageMgLB.baml
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\PageManagerLB\ReaderViewPageMgLB.baml
+C:\Users\andre\OneDrive\Рабочий стол\ARVpr7\obj\Debug\Pages\PageManagerLB\RegViewPageMgLB.baml
